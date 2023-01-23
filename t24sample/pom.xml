@@ -14,9 +14,9 @@
         </developer>
     </developers>
 	<properties>
-		<t24lib>D:\Dependencies\t24lib</t24lib>
-		<tafjlib>D:\Dependencies\tafj</tafjlib>
-		<tamlib>D:\Dependencies\tamlib</tamlib>
+		<t24lib>D:\t24sample\Dependencies\t24lib</t24lib>
+		<tafjlib>D:\t24sample\Dependencies\tafj</tafjlib>
+		<tamlib>D:\t24sample\Dependencies\tamlib</tamlib>
 		<defaultVersion>1.0</defaultVersion>
 		<groupIdt24>t24</groupIdt24>
 		<groupIdtafj>tafj</groupIdtafj>
